@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/zhangfenglin/XALFrameworks'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zhangfenglin' => 'zhangfenglin@apusapps.com' }
-  s.source           = { :git => 'https://github.com/zhangfenglin/XALFrameworks.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:zhangfenglin/XALFrameworks.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.3'
   
